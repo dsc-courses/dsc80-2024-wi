@@ -1,0 +1,50 @@
+<div class="module">
+  <h3 class="module-header" id="{{ page.title | slugify }}">{{ page.title }}</h3>
+  {% if page.days %}
+  <dl class="module-days">
+    {% for day in page.days %}
+      <dt class="module-day main">{{ day.date | date: '%a %b %e' }}</dt>
+      {% for event in day.events %}
+        {% if event.markdown_content %}
+          <dd class="module-event{% if forloop.first %} main{% endif %}">
+            {{ event.markdown_content | markdownify }}
+          </dd>
+        {% else %}
+          <dd class="module-event{% if forloop.first %} main{% endif %}">
+            <p>
+              <strong class="label label-{{ event.type }}">
+                {{ event.name }}
+              </strong>
+              {% if event.url %}
+                <a href="{{ event.url }}">{{ event.title }}</a>
+              {% else %}
+                {{ event.title }}
+              {% endif %}
+            </p>
+            <p>
+              {%- if event.podcast -%}
+                <span>
+                  <a href="{{ event.podcast }}">🎥</a>
+                </span>
+              {%- endif -%}
+              {%- if event.podcast and event.reading -%}
+                <span> | </span>
+              {%- endif -%}
+              {%- if event.reading -%}
+                {{ event.reading | markdownify | remove: '<p>' | remove: '</p>' }}
+              {%- endif -%}
+            </p>
+            <!-- {{ event | first | markdownify }} {{ event | last | markdownify }} -->
+          </dd>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </dl>
+  {% endif %}
+  {% assign content_strip = content | strip %}
+  {% if content_strip != "" %}
+  <div class="module-body">
+    {{ content }}
+  </div>
+  {% endif %}
+</div>

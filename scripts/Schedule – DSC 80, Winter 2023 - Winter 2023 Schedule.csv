@@ -1,0 +1,53 @@
+Week,Date,#,Lecture,Readings,Lab,Projects,Discussion
+1,Mon 1/9,1,"Introduction, Data Science Lifecycle",[Ch. 1](https://notes.dsc80.com/content/01/introduction.html),,,
+,Tue 1/10,,,,,,
+,Wed 1/11,2,DataFrame Fundamentals,[Ch. 2](https://notes.dsc80.com/content/02/introduction.html),,,1. Environment Setup
+,Thu 1/12,,,,,,
+,Fri 1/13,3,More DataFrame Manipulation,"[Ch. 2](https://notes.dsc80.com/content/02/introduction.html), [3](https://notes.dsc80.com/content/03/introduction.html)",,,
+2,Mon 1/16,,N/A (MLK Day),,,,
+,Tue 1/17,,,,"1. Python, NumPy, and Pandas",,
+,Wed 1/18,4,Grouping,[Ch. 5.1-5.2](https://notes.dsc80.com/content/05/introduction.html),,,2
+,Thu 1/19,,,,,Project 1 Checkpoint,
+,Fri 1/20,5,"Pivoting, Simpson's Paradox, and Concatenating",[Ch. 5.3](https://notes.dsc80.com/content/05/appending-data.html),,,
+3,Mon 1/23,6,Concatenating and Merging,[Ch. 5.4](https://notes.dsc80.com/content/05/joining-data.html),2. More Pandas,,
+,Tue 1/24,,,,,,
+,Wed 1/25,7,Data Cleaning,[Ch. 4](https://notes.dsc80.com/content/04/introduction.html),,,3
+,Thu 1/26,,,,,Project 1 Due,
+,Fri 1/27,8,"Unfaithful Data, Hypothesis Testing",[CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html),,,
+4,Mon 1/30,9,Hypothesis and Permutation Testing,"[Ch. 5.5](https://notes.dsc80.com/content/05/permutation-tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)",3. DataFrame Manipulation,,
+,Tue 1/31,,,,,,
+,Wed 2/1,10,Hypothesis and Permutation Testing,"[Ch. 5.5](https://notes.dsc80.com/content/05/permutation-tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)",,,4
+,Thu 2/2,,,,,Project 2 Checkpoint,
+,Fri 2/3,11,Missingness Mechanisms,[Ch. 6.1-6.2](https://notes.dsc80.com/content/06/introduction.html),,,
+5,Mon 2/6,12,Missingness Mechanisms and Imputation,[Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html),4. Hypothesis and Permutation Testing,,
+,Tue 2/7,,,,,,
+,Wed 2/8,13,Imputation,[Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html),,,
+,Thu 2/9,,,,,Project 2 Due,
+,Fri 2/10,14,Requests and JSON,[Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html),,,
+6,Mon 2/13,15,HTTP Basics,[Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html),5. Missing Values and Imputation,,
+,Tue 2/14,,,,,,
+,Wed 2/15,,Midterm Exam (in class),,,,5
+,Thu 2/16,,,,,,
+,Fri 2/17,16,Web Scraping and Parsing HTML,[Ch. 7.3](https://notes.dsc80.com/content/07/html.html),,,
+7,Mon 2/20,,N/A (Presidents' Day),,6. HTTP and HTML,,
+,Tue 2/21,,,,,,
+,Wed 2/22,17,Regular Expressions,[Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html),,,6
+,Thu 2/23,,,,,Project 3 Due,
+,Fri 2/24,18,Text Features,[Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html),,,
+8,Mon 2/27,19,"Text Features, Continued",[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html),7. Regular Expressions and Text Data,,
+,Tue 2/28,,,,,,
+,Wed 3/1,20,Modeling and Regression,[Ch. 10.1](https://notes.dsc80.com/content/10/intro-modeling.html),,,7
+,Thu 3/2,,,,,Project 4 Checkpoint,
+,Fri 3/3,21,Feature Engineering,[Ch. 9.1](https://notes.dsc80.com/content/09/features.html),,,
+9,Mon 3/6,22,Modeling in `sklearn`,[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html),8. Modeling and Feature Engineering,,
+,Tue 3/7,,,,,,
+,Wed 3/8,23,"`sklearn` Pipelines, Regression Evaluation","[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html), [Ch. 10.2](https://notes.dsc80.com/content/10/model-building.html)",,,
+,Thu 3/9,,,,,Project 4 Due,
+,Fri 3/10,24,Cross Validation,[Ch. 11.1-11.2](https://notes.dsc80.com/content/11/introduction.html),,,
+10,Mon 3/13,25,"Decision Trees, Grid Search, and Multicollinearity",[Ch. 11.1-11.2](https://notes.dsc80.com/content/11/introduction.html),9. Pipelines,,
+,Tue 3/14,,,,,,
+,Wed 3/15,26,"Classifier Evaluation, Fairness Criteria",,,,8
+,Thu 3/16,,,,,,
+,Fri 3/17,27,"Fairness Criteria, Conclusion",,,,
+11,Wed 3/22,,Final Exam,,,Project 5 Due,
+,Thu 3/23,,,,,,
