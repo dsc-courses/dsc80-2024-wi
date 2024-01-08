@@ -8,7 +8,7 @@ nav_order: 3
 # 📆 Calendar
 
 {: .warning }
-**Coming soon👀**
+**Coming soon! 👀**
 
 <!-- Lectures (<span style="color:blue"><b>blue</b></span>) are held in [Warren Lecture Hall 2005](https://maps.app.goo.gl/5f615DJPWYUj8xfZA). Discussions (<span style="color:blue"><b>blue</b></span>) are held in [Center Hall 115](https://www.google.com/maps/place/Center+Hall/@32.8767436,-117.2368927,17z/data=!4m12!1m5!3m4!2zMzLCsDUyJzQ4LjQiTiAxMTfCsDE0JzMxLjIiVw!8m2!3d32.8801111!4d-117.242!3m5!1s0x80dc06c43a8ab30b:0xd7aa5719af666fb!8m2!3d32.8775468!4d-117.2374084!16s%2Fg%2F1q6jj7xsd?entry=ttu).
 

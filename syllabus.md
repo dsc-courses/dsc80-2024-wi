@@ -10,7 +10,7 @@ nav_order: 2
 {:.no_toc}
 
 {: .warning }
-**Coming soon👀**
+**Coming soon! 👀**
 
 <!-- ## Table of contents
 {: .no_toc .text-delta }

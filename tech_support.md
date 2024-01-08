@@ -15,7 +15,10 @@ nav_order: 4
 {:toc}
 ---
 
-## Introduction
+{: .warning }
+**Coming soon! 👀**
+
+<!-- ## Introduction
 
 Assignments in DSC 80 are mostly coding assignments, so it's important to make sure that your computing environment is set up properly. There are two ways to go about things: you can set up a local environment or use a remote environment that is largely pre-configured. On this page, we'll talk about both options.
 
@@ -256,4 +259,4 @@ the updated files.
 
 2. In the toolbar at appears at [datahub.ucsd.edu](https://datahub.ucsd.edu), click "Services" then click "manual-resetter", then click "Reset". If a pop-up box appears, that's okay.
 
-3. Log back into DataHub again and it should allow you to select a course – select DSC 80.
+3. Log back into DataHub again and it should allow you to select a course – select DSC 80. -->

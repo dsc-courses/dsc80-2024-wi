@@ -7,9 +7,6 @@ nav_order: 6
 
 # 👩‍🏫 Staff
 
-{: .warning }
-**Coming soon👀**
-
 ## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
