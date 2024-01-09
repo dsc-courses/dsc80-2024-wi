@@ -17,8 +17,8 @@ nav_order: 1
 
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
-{: .warning }
-Welcome to DSC 80! This site is still under construction and all information here is subject to change.<br>We look forward to seeing you in the first lecture on Tuesday. In the meantime, please fill out the [**Welcome Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfyspVwdghw5EQShNLyG_L97s0G-X2N8ut8bG6_0K-_WH9DPw/viewform).
+{: .success }
+**Welcome to DSC 80! 👋** To get started, please read the [**Syllabus**](syllabus) and set up your development environment by following the instructions on the [**Tech Support**](tech_support) page. In addition, please fill out the [**Welcome Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfyspVwdghw5EQShNLyG_L97s0G-X2N8ut8bG6_0K-_WH9DPw/viewform).
 
 <!-- {: .note }
 **Dec 6, 2023:** The Final Exam will take place on Mon., Dec 11,
