@@ -251,7 +251,7 @@ schedule (which is subject to change in any given week):
 | ------ | ------ | ------- | --------- | -------- | ---------- | -------- |
 |        |        | Lecture |           | Lecture  |            |          |
 |        |        |         |   Discussion        |          |  |          |
-| | <span style='color:red'><b>Lab due</b></span> | | | <span style='color:red'><b>Project/checkpoint due</b></span><br><span style='color:red'><b>Lab reflection due</b></span> | | |
+| | <span style='color:red'><b>Lab due</b></span> | | | <span style='color:red'><b>Project/checkpoint due</b></span><br><span style='color:red'><b>Lab reflection due (extra credit)</b></span> | | |
 
 ---
 
