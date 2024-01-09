@@ -9,16 +9,12 @@ nav_order: 2
 # 📖 Syllabus
 {:.no_toc}
 
-{: .warning }
-**Coming soon! 👀**
-
-<!-- ## Table of contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc} -->
+{:toc}
 
-<!-- ---
 
 ## About 🧐
 
@@ -49,10 +45,10 @@ You'll need to make accounts on the following sites:
 - **Ed:** We’ll be using Ed as our course message and discussion board. More
   details are in the [Communication](#communication-) section below. If you
   didn’t already get an invitation to our Ed course, [sign up
-  here](https://edstem.org/us/join/NfMDxv).
+  here](https://edstem.org/us/join/JgtnSd).
 
 - **Gradescope:** You’ll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/625393). This is where all of
+  [Gradescope](https://www.gradescope.com/courses/698219). This is where all of
   your grades will live as well. Most of the assignments will be coding
   assignments. Parts of these assignments will be manually graded, but most of
   them will be autograded. You should have received an email invitation for
@@ -62,11 +58,9 @@ You'll need to make accounts on the following sites:
 - **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture
   slides and assignments) by _pulling_ our course GitHub repository. That repo
   is here:
-  [github.com/dsc-courses/dsc80-2023-fa](https://github.com/dsc-courses/dsc80-2023-fa).
+  [github.com/dsc-courses/dsc80-2024-wi](https://github.com/dsc-courses/dsc80-2024-wi).
   In most assignments, you won't need to _push_ anything to GitHub, however in
   Projects 3 and 5 you will, and so you'll need to have an account by then.
-
-- **Zoom (optional):** To access remote office hours, if you'd like.
 
 Note that we will not be using Canvas for anything this quarter.
 
@@ -79,7 +73,7 @@ environment for the course.
 ### Forms
 
 Please fill out the [Welcome
-Survey](https://docs.google.com/forms/d/e/1FAIpQLScGBRJrHxMPa8ix46FFDPxn9UhQoVhWOKMQ41ZTypWoj_OEAA/viewform?usp=sf_link)
+Survey](https://docs.google.com/forms/d/e/1FAIpQLSfyspVwdghw5EQShNLyG_L97s0G-X2N8ut8bG6_0K-_WH9DPw/viewform)
 to tell us a bit more about yourself and tell us if you need an alternate exam.
 
 ---
@@ -111,25 +105,24 @@ post instead.**
 
 ### Lectures
 
-Lectures will be held in-person on Tuesday and Thursday from 3:30-4:50PM in
-[WLH 2005]. Attendance is not required, **though you are encouraged to
+Lectures will be held in-person on Tuesdays and Thursdays from 3:30-4:50PM in [Pepper Canyon Hall](https://map.concept3d.com/?id=1005#!m/246320) 109. Attendance is not required, **though you are encouraged to
 attend in-person if you are able to**. Lectures will be podcasted.
 
 Lecture notebooks will be your main resource in this class. You can access
 them, along with all course materials, by pulling from the course GitHub
 repository,
-[github.com/dsc-courses/dsc80-2023-fa](https://github.com/dsc-courses/dsc80-2023-fa).
+[github.com/dsc-courses/dsc80-2024-wi](https://github.com/dsc-courses/dsc80-2024-wi).
 We will also link HTML previews of each lecture notebook from the course
 homepage; you can use these to annotate the lecture notebooks with a tablet, if
 you'd like.
 
-The course textbook is called _Learning Data Science_ and is available online
-via your UCSD O'Reilly library subscription or at [https://learningds.org/]().
+**New**{: .label .label-green } Before lecture, we may post a "pre-lecture reading" which contains an introduction to the material being covered in the lecture. These should only take ~20 minutes to read. If everyone comes to class having read the pre-lecture reading, we'll be able to spend more time in class working through challenging problems, like you may see in labs or projects, rather than having to listen to Suraj talk 😴. This is a new experiment, and we may tweak the experience during the quarter. We appreciate your feedback!
+
+Supplementary readings (which are different from pre-lecture readings) will primarily come from _Learning Data Science_, a freely-available textbook written by another DSC 80 instructor, Sam Lau. It can be found at [learningds.org](https://learningds.org). Some readings will come from [notes.dsc80.com](https://notes.dsc80.com), a set of notes that were originally written to supplement DSC 80. Supplementary readings are not required, in that you won't be tested on anything that appears only in the readings but not in lectures or assignments, but you should still complete them to supplement your understanding!
 
 ### Discussions and Lab Reflections
 
-Starting in Week 1, discussions will be held in-person on Friday from
-10-10:50AM in [Center Hall 212]. Discussion sections will be podcasted.
+Discussions will be held in-person on Wednesdays from 7-7:50PM in [Pepper Canyon Hall](https://map.concept3d.com/?id=1005#!m/246320) 109, the same room as lecture. Discussion sections will be podcasted.
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and
 [projects](#projects), which you'll read more about in the sections below. The
@@ -139,8 +132,8 @@ also important to _reflect_ on your lab work once grades are released, and
 think about how you could have approached problems differently (e.g. more
 efficiently).
 
-Therefore, in discussion sections on Friday, we discuss solutions to a _subset_
-of the lab that was due that Monday (4 days **before** discussion). When you
+Therefore, in discussion sections on Wednesdays, we discuss solutions to a _subset_
+of the lab that was due that Monday (2 days **before** discussion). When you
 attend, you'll have a chance to discuss your implementation with course staff
 and hear how others attempted the problems. Hopefully, you'll leave with a
 stronger understanding of the learning objectives of the lab.
@@ -149,19 +142,19 @@ To encourage you to attend and reflect, we will offer extra credit to those who
 do **all 3** of the following:
 
 1. Submit the lab.
-1. Attend discussion section in-person on Friday.
+1. Attend discussion section in-person on Wednesday.
 1. Satisfactorily complete a **Lab Reflection** form for the lab that was taken
-   up in discussion by **Friday** at 11:59PM. The reflection form, hosted on
+   up in discussion by **Thursday at 11:59PM** (the next day). The reflection form, hosted on
    Gradescope, will ask you to comment on how your answers compared to the
    solution and how you could've approached the problems differently (even if
    you received full credit on the problems that were taken up).
 
-Since there are 8 labs, there will be 8 lab reflections and 8 discussion
+Since there are 9 labs, there will be 9 lab reflections and 9 discussion
 sections in which we take up lab solutions. For each lab **that you submit**,
 if you attend the corresponding discussion section **and** complete the lab
-reflection form, you will receive 0.25% of extra credit added to your overall
-grade. This can add up to 0.25% \* 8 = **2%** of extra credit for your overall
-grade.
+reflection form, you will receive 0.2% of extra credit added to your overall
+grade. On Wednesday of Week 1, since no lab will have been due yet, we will award this extra credit
+to anyone who attends discussion. Thus, there are 10 extra credit opportunities available, which could amount to  0.2% \* 10 = **2%** of extra credit for your overall grade.
 
 Note that:
 
@@ -184,8 +177,8 @@ are usually provided so that you can make sure that you\'re on the right track
 autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped when
-calculating your final score. Labs will be released on Tuesdays and due on
-**Mondays** at 11:59PM.
+calculating your final score. Labs will usually be released on Tuesdays and due on
+**Mondays at 11:59PM** (except in Weeks 2 and 7, in which Monday is a holiday and the lab is due on Wednesday at 5PM).
 
 You will access labs (and projects) by pulling the course GitHub repository.
 
@@ -207,8 +200,7 @@ easy points.
 The last project, Project 5, will be due during finals week, and can be thought
 of as a practical component of the Final Exam.
 
-Note that, unlike labs, the lowest project score is not dropped. Projects will
-be released on Tuesdays and due on **Wednesday** at 11:59PM.
+Note that, unlike labs, the lowest project score is not dropped. Projects and project checkpoints will usually be due on **Thursdays at 11:59PM**.
 
 **Working in Pairs**
 
@@ -247,9 +239,7 @@ office hours and study groups.**
 ### Office Hours
 
 To get help on assignments and concepts, course staff will be hosting several
-office hours per week. The majority of our office hours are held in-person,
-though a few are held remotely – **if you're able to, you're strongly
-encouraged to attend in-person**. See the [Calendar](../calendar) tab of the
+office hours per week. All office hours will be held in person. See the [Calendar](../calendar) tab of the
 course website for the most up-to-date schedule and instructions.
 
 ### Weekly Schedule
@@ -260,8 +250,8 @@ schedule (which is subject to change in any given week):
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday     | Saturday |
 | ------ | ------ | ------- | --------- | -------- | ---------- | -------- |
 |        |        | Lecture |           | Lecture  |            |          |
-|        |        |         |           |          | Discussion |          |
-| | <span style='color:red'><b>Lab due</b></span> | | <span style='color:red'><b>Project/checkpoint due</b></span> | | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> | |
+|        |        |         |   Discussion        |          |  |          |
+| | <span style='color:red'><b>Lab due</b></span> | | | <span style='color:red'><b>Project/checkpoint due</b></span><br><span style='color:red'><b>Lab reflection due</b></span> | | |
 
 ---
 
@@ -270,10 +260,10 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: Thursday, November 2nd, 3:30-4:50PM, WLH 2005
+- **Midterm Exam**: Thursday, February 8th, 3:30-4:50PM, Pepper Canyon Hall 109
   (during lecture)
 
-- **Final Exam:** Monday, December 11th, 3:00-6:00PM, location TBD
+- **Final Exam:** Tuesday, March 19th, 3-6PM, Room TBD
 
 **Both exams will be administered in-person**. If you have conflicts with
 either of the exams, please let us know on the [Welcome
@@ -303,12 +293,12 @@ Here is how we'll compute your grade:
 
 | Component                               | Weight              | Notes                           |
 | --------------------------------------- | ------------------- | ------------------------------- |
-| Labs                                    | 30%                 | 3.75% per lab, lowest dropped   |
-| Projects                                | 35%                 | 7% per project, no drops        |
+| Labs                                    | 25%                 | 3.125% per lab, lowest dropped   |
+| Projects                                | 30%                 | 6% per project, no drops        |
 | Project Checkpoints                     | 5%                  | 1% per project, no drops\*      |
-| Midterm Exam                            | 10%                 | see the Redemption Policy above |
-| Final Exam                              | 20%                 |                                 |
-| Discussion Attendance + Lab Reflections | 2% (extra credit)   | 0.25% per reflection            |
+| Midterm Exam                            | 15%                 | see the Redemption Policy above |
+| Final Exam                              | 25%                 |                                 |
+| Discussion Attendance + Lab Reflections | 2% (extra credit)   | 0.2% per week            |
 
 \*Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects
 3 and 5 will automatically receive the 1% checkpoint credit.
@@ -316,7 +306,7 @@ Here is how we'll compute your grade:
 ### Late Policy, Slip Days, and Drops
 
 All assignments must be submitted by 11:59PM San Diego time on the due date to
-be considered on time. You may turn them in as many times as you like before
+be considered on time, with the exception of Labs 1 and 6 (due in Weeks 2 and 7 on Wednesday at 5PM). You may turn them in as many times as you like before
 the deadline, and only the most recent submission will be graded, so it’s a
 good habit to submit early and often. If you make a submission after the
 deadline, your assignment will be counted as late.
@@ -326,7 +316,7 @@ the deadline of an assignment by 24 hours. The number of slip days you can use
 on an assignment depends on the kind of assignment:
 
 - On labs, you may use up to 1 slip day. Labs will not be accepted more than 24
-  hours after the deadline.
+  hours after the deadline. Note that you will not be able to use slip days on Labs 2 and 7, but their deadlines will be extended.
 - On projects and project checkpoints, you may use up to 2 slip days. These
   assignments will not be accepted more than 48 hours after the deadline. Note
   that you will not be able to use slip days on Project 5.
@@ -336,7 +326,7 @@ on an assignment depends on the kind of assignment:
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete an
 assignment on its original due date (or if you forgot about it). But slip days
-are also meant for things like the internet going down at 11:58 PM just as you
+are also meant for things like the internet going down at 11:58PM just as you
 go to submit your assignment. Slip days are meant to be used in exceptional
 circumstances, so **you probably should not need to use all 6, but if you have
 something going on in your life that is impeding your ability to do your
@@ -373,7 +363,7 @@ credit.
 **Regrade Requests for Autograded Problems**
 
 To submit an autograder regrade request, please fill out the [Autograder
-Regrade Request Form](https://forms.gle/HmKyzJ7rEoUCM4mb8).
+Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdQKoCJPxw2i3Dtn-ITZ_fkY3Rb46Pic6HyrDG6sgmXJnvc5w/viewform).
 
 The autograder is very picky: it expects your assignments to have exactly the
 correct file names, all functions must be named correctly, etc. If these are
@@ -399,7 +389,7 @@ date, you have some options:
     already used on the assignment. You can submit a catastrophe regrade
     request the same way you submit a regular autograder regrade request, by
     filling out the [Autograder Regrade Request
-    Form](https://forms.gle/HmKyzJ7rEoUCM4mb8).
+    Form](https://docs.google.com/forms/d/e/1FAIpQLSdQKoCJPxw2i3Dtn-ITZ_fkY3Rb46Pic6HyrDG6sgmXJnvc5w/viewform).
 
 ### Incompletes
 
@@ -496,8 +486,6 @@ The following activities are considered cheating and are not allowed in DSC 80
 The following activities are examples of appropriate collaboration and are
 allowed in DSC 80 (not an exhaustive list):
 
-- **(new) Using AI code generation tools, such as GitHub Copilot and ChatGPT,
-  to help write your code**
 - Discussing the general approach to solving labs or projects
 - Talking about problem-solving strategies or issues you ran into and how you
   solved them
@@ -511,8 +499,6 @@ allowed in DSC 80 (not an exhaustive list):
 - Posting a question about your approach to a problem on Ed, without sharing
   your code
 
-### How can I be sure that my actions are NOT considered cheating?
-
 The best way to avoid problems is by using your best judgement and remembering
 to act with Honesty, Trust, Fairness, Respect, Responsibility, and Courage.
 Here are some suggestions for completing your work:
@@ -524,6 +510,26 @@ Here are some suggestions for completing your work:
   share code with other students.
 - If you are talking to another student about an assignment, don't take notes,
   and wait an hour afterward before you write any code.
+
+### Use of Generative Artificial Intelligence
+
+Generative Artificial Intelligence (GenAI) describes tools, such as [ChatGPT](https://chat.openai.com) and GitHub Copilot, that are trained to generate responses to user-defined prompts, or questions. The existence of such tools is a major milestone in machine learning, and an impressive application of data science in the real world. 
+
+Our course policy on the use of GenAI tools for coursework is simple: **you may use these tools to build an understanding of course material and to assist you on assignments, keeping in mind that no tool is a substitute for a strong understanding of course concepts.**
+
+Be mindful of how you are using GenAI tools. These tools can be very useful to help you preview material before lecture, summarize material after lecture, explain concepts you didn’t understand, and explore how different concepts are related. “Explain it like I’m five” can be a helpful prompt to give you a basic understanding of new concepts before being exposed to them in lecture. Consolidating your knowledge after learning something new and relating it to other things you know is important for learning and retention.
+
+Unfortunately, GenAI tools are not a consistently reliable source of quality information. Because of how GenAI tools are trained, they often provide answers and write code that _look_ correct, but aren't actually correct. A goal of your education is to develop an ability to identify and produce information that actually is correct and doesn’t just sound correct. Human supervision of GenAI tools is always necessary. 
+
+Proceed with caution when using tools to assist you with your assignments. DSC 80 is a foundational class for your study of data science; you need to master the skills and concepts of this course if you want to use data science effectively. Through exams, you will be tested on your independent ability to apply course material to novel problems. Labs and projects are meant to prepare you for these assessments, so overreliance on GenAI for assignments will rob you of opportunities to learn and make it hard for you to perform well on exams.
+
+If you do use GenAI to assist you on assignments, keep these guidelines in mind:
+
+- **Design your prompts carefully.** Don’t just ask one question; ask a follow-up question based on the output to the first. To use these tools effectively, you need to engineer your prompts carefully.
+- **Test the outputs.** GenAI tools can and do make mistakes, and being able to verify the correctness of a proposed answer is an important skill for you to develop. Validate the output against course-provided references, or follow up with a search on Google or Stack Overflow.   Remember that GenAI tools provide crowdsourced likely answers, not necessarily correct answers.
+- **Don’t submit any code that you don’t understand, or that uses content not taught in this class.** In our experience last quarter, students who used ChatGPT to help with assignments ended up with code that was difficult for both them and the teaching staff to understand. If you answer questions with out-of-scope content, you are not practicing the foundational skills that the course is meant to teach you. Be careful!
+
+If your assignment submission includes any content generated by an AI tool, it should be cited to acknowledge the source of the material. In each assignment, you will be provided with a space to explain and reflect on your use of GenAI tool(s). 
 
 ---
 
@@ -577,9 +583,5 @@ you, including:
 
 ## Acknowledgements 🙏
 
-This offering of DSC 80 builds off of prior offerings by Tauhidur Rahman, Suraj
-Rampure, Justin Eldridge, Marina Langlois, and Aaron Fraenkel. Along with the
-help of their tutors and TAs, they developed much of the content that we will
+This offering of DSC 80 builds off of prior offerings by Sam Lau, Tauhidur Rahman, Suraj Rampure, Justin Eldridge, Marina Langlois, and Aaron Fraenkel. Along with the help of their tutors and TAs, they developed much of the content that we will
 use in this course.
-
---- -->
