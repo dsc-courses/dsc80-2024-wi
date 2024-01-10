@@ -35,7 +35,7 @@ How do you install packages, then? `pip` is a common choice, but even though it'
 
 `conda`, on the other hand, is a powerful tool that not only installs packages but also manages environments effortlessly. It allows you to create isolated environments and ensures compatibility among the packages within those environments.
 
-**The tool we're going to use, though, is `mamba`, which is a wrapper around `conda` that is designed to be much faster.** If you should need to install a new Python package, you can use the `mamba` command (once you have `mamba` installed). Inside the Terminal, type `mamba install <package_name>`, where `<package_name>` is replaced by the name of the package you want to install, and hit enter.
+**The tool we're going to use, though, is `mamba`, which is a wrapper around `conda` that is designed to be much faster.** If you should need to install a new Python package, you can use the `mamba` command (once you have `mamba` installed). Inside the Terminal, type `mamba install <package_name>`, where `<package_name>` is replaced by the name of the package you want to install, and hit enter. **However, you should only run `mamba install` once you've entered your `dsc80` environment** – more on this below.
 
 ---
 
@@ -104,6 +104,8 @@ mamba activate dsc80
 
 _Where did the name `dsc80` come from, you might ask? We defined it for you at the top of `environment.yml` with `name: dsc80`._
 
+If you get an error saying `mamba` isn't defined, try closing and reopening your Terminal first and then rerunning the command.
+
 ---
 
 ## Working on Assignments
@@ -116,7 +118,7 @@ The setup instructions above only need to be run once. Now, every time you work 
 mamba activate dsc80
 ```
 
-in your Terminal or Anaconda Prompt.
+in your Terminal or Anaconda Prompt. If you need to install any packages into your `dsc80` environment using `mamba install`, make sure to activate the environment first.
 
 If you’re using VSCode, you should select the Python kernel corresponding to the `dsc80` environment to use it.
 

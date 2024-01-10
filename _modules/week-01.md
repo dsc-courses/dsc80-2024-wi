@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Introduction, Data Science Lifecycle
         url: resources/lectures/lec01/lec01.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/1
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/1
         reading: >
           [Ch. 1](https://learningds.org/ch/01/lifecycle_intro.html)
   - date: '2024-01-10'
