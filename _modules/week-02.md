@@ -14,9 +14,9 @@ days:
   - date: '2024-01-17'
     events:
       - name: LAB 1
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/tree/main/labs/lab01
+        url: https://github.com/dsc-courses/dsc80-2024-wi/tree/main/labs/lab01/lab.ipynb
         type: lab
-        title: Python, NumPy, and Pandas (due 5PM, no slip days)
+        title: <b>Python, NumPy, and Pandas (due 5PM, no slip days)</b>
       - name: SUR
         type: survey
         title: <b>Welcome Survey</b>

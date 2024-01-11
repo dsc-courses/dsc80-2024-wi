@@ -23,6 +23,12 @@ There has been a lot written about how to set up a Python environment, so we won
 
 ---
 
+[This video](https://www.loom.com/share/0ea254b85b2745e59322b5e5a8692e91?sid=b77c5c2d-0c24-40fb-8cfc-8574d49d9019) walks through most of the steps here, but it's **not** a substitute for reading this page carefully.
+
+<div style="position: relative; padding-bottom: 64.92335437330928%; height: 0;"><iframe src="https://www.loom.com/embed/0ea254b85b2745e59322b5e5a8692e91?sid=96bb8188-9783-4878-bc1a-5f6946b20a61" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
 ## Environments and Package Managers
 
 For this class, the software you'll need includes Python 3.8, a few specific Python packages, Git, and a text editor.

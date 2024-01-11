@@ -27,8 +27,7 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 
 ## Videos
 
-- Working on Assignments in DSC 80 (an updated video will be posted soon).
-<!-- - [Working on Assignments in DSC 80](https://youtu.be/PPKXJqu2XmY) -->
+- [DSC 80 Environment Setup and Assignment Workflow](https://www.loom.com/share/0ea254b85b2745e59322b5e5a8692e91?sid=b77c5c2d-0c24-40fb-8cfc-8574d49d9019).
 - [Working with the command-line in DSC 80](https://www.youtube.com/watch?v=uUawZfAgA64).
 
 ---
