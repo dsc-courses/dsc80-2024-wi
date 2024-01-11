@@ -27,7 +27,7 @@ days:
       - name: LEC 2
         type: lecture
         title: DataFrame Fundamentals
-        # url: resources/lectures/lec02/lec02.html
+        url: resources/lectures/lec02/lec02.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/2
         reading: >
           [Ch. 6, 6.1](https://learningds.org/ch/06/pandas_intro.html)
