@@ -13,6 +13,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+[Jump to the current week](#week-2-dataframes){: .btn }
+
 <!-- [Jump to the current week](#week-9-code-sklearn-code-pipelines-generalization-and-cross-validation){: .btn } -->
 
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->

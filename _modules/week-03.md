@@ -32,9 +32,11 @@ days:
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/6
         reading: >
           [Ch. 2](https://learningds.org/ch/02/data_scope_intro.html)
+  - date: '2024-01-27'
+    events:
       - name: PROJ 1
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/01-gradebook/project.ipynb
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/projects/proj01/project.ipynb
         type: proj
-        title: Gradebook 💯
+        title: <b>Gradebook 💯</b>
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Week 1 - From BabyPandas to Pandas<br><small>🚨 Thursday's lecture will be on Zoom; <a href="https://ucsd.zoom.us/my/rampure">here</a> is the link. (If you're curious, it's because Suraj is at a <a href="https://www.imsi.institute/activities/teaching-and-evaluating-data-communication-at-scale/">conference</a>.)</small>
+title: Week 1 - From BabyPandas to Pandas<br><small>🚨 Thursday's lecture was on Zoom. (If you're curious, it's because Suraj was at a <a href="https://www.imsi.institute/activities/teaching-and-evaluating-data-communication-at-scale/">conference</a>.)</small>
 weekNumber: 1
 days:
   - date: '2024-01-09'
