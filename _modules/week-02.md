@@ -10,8 +10,8 @@ days:
         url: https://dsc10.com/diagrams/#grouping
       - name: LEC 3
         type: lecture
-        title: Aggregating
-        # url: resources/lectures/lec03/lec03.html
+        title: Grouping and Pivoting
+        url: resources/lectures/lec03/lec03.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/3
         reading: >
           [Ch. 6.2](https://learningds.org/ch/06/pandas_aggregating.html)
