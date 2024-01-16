@@ -4,6 +4,10 @@ weekNumber: 2
 days:
   - date: '2024-01-16'
     events:
+      - name: PRE 3
+        type: pre-lec
+        title: Pre-Lecture Reading
+        url: https://dsc10.com/diagrams/#grouping
       - name: LEC 3
         type: lecture
         title: Aggregating
