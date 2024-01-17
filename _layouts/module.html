@@ -20,8 +20,17 @@
               {% else %}
                 {{ event.title }}
               {% endif %}
+              {%- if event.filled -%}
+                <span>
+                  <a href="{{ event.filled }}">📝</a>
+                </span>
+              {%- endif -%}
             </p>
             <p>
+              <!-- 
+              {%- if event.filled and event.podcast -%}
+                <span> | </span>
+              {%- endif -%} -->
               {%- if event.podcast -%}
                 <span>
                   <a href="{{ event.podcast }}">🎥</a>
