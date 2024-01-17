@@ -12,7 +12,7 @@ days:
         type: lecture
         title: Grouping and Pivoting
         url: resources/lectures/lec03/lec03.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/3
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/3
         reading: >
           [Ch. 6.2](https://learningds.org/ch/06/pandas_aggregating.html)
   - date: '2024-01-17'
