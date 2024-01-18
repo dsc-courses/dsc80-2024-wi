@@ -30,6 +30,8 @@ days:
         type: disc
         title: Lab 1 Reflection
         podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/22
+        reading: >
+          [Code Style](https://courses.cs.washington.edu/courses/cse163/21wi/style-guide.html)
   - date: '2024-01-18'
     events:
       - name: LEC 4
