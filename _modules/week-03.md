@@ -5,9 +5,9 @@ days:
   - date: '2024-01-22'
     events:
       - name: LAB 2
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab02/lab.ipynb
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/labs/lab02/lab.ipynb
         type: lab
-        title: More Pandas
+        title: <b>DataFrames and Grouping</b>
   - date: '2024-01-23'
     events:
       - name: LEC 5

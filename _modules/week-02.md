@@ -29,7 +29,7 @@ days:
       - name: DISC 2
         type: disc
         title: Lab 1 Reflection
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/21
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/22
   - date: '2024-01-18'
     events:
       - name: LEC 4

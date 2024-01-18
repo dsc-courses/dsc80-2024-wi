@@ -17,7 +17,7 @@ days:
         type: disc
         title: Environment Setup
         url: https://docs.google.com/presentation/d/1UyLNx2BMzyzI9YkAAVvHfmd4FRgT8evO/edit?usp=sharing&ouid=114208457266212070979&rtpof=true&sd=true
-        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/20
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/21
   - date: '2024-01-11'
     events:
       - name: PRE 2
