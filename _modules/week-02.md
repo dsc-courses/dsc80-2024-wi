@@ -38,7 +38,8 @@ days:
         type: lecture
         title: Simpson's Paradox, Joining, and Transforming
         url: resources/lectures/lec04/lec04.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/4
+        filled: resources/lectures/lec04/lec04-filled.html
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/4
         reading: >
           [Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)
   - date: '2024-01-20'
