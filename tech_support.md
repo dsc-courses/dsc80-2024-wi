@@ -84,6 +84,8 @@ bash Miniforge3-$(uname)-$(uname -m).sh` -->
     start /wait "" Miniforge3-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniforge3
     ```
 
+Make sure to run this command in the same folder that `Miniforge3-Windows-x64_64.exe` is! If that's not the folder that your command line interface is looking in, you'll need to `cd` there first, e.g. `cd C:\Users\surajrampure\Desktop` if that file is on your Desktop.
+
 ### Step 2: Download [`environment.yml`](https://github.com/dsc-courses/dsc80-2024-wi/blob/gh-pages/resources/environment.yml)
 
 [This file](https://github.com/dsc-courses/dsc80-2024-wi/blob/gh-pages/resources/environment.yml) contains the necessary details to configure your environment. If you take a look at it, you'll see that it contains a specific Python version (`python=3.8`) along with specific package versions (like `pandas==1.3.3` and `requests==2.31.0`, for example).
@@ -215,6 +217,18 @@ If you're curious, Suraj uses VSCode to edit .py files and the vanilla Jupyter e
 -   [emacs](https://www.gnu.org/software/emacs/): A text editor for
     those who prefer a life of endless toil. Endlessly customizable, it
     promises everything, but you're never good enough to deliver.
+
+### Using VSCode to Run Jupyter Notebooks
+
+Many students like to use VSCode to edit Jupyter Notebooks. If that's you, then you'll need to make sure to activate your `dsc80` conda environment within your notebook in VSCode. Here's how to do that.
+
+1. Open a Juypter Notebook in VSCode.
+1. Click "Select Kernel" in the top right corner of the window.
+    <center><img src="../assets/images/ts-select-kernel.png" width=150></center>
+1. Click "Python Environments" in the toolbar that appears in the middle.
+    <center><img src="../assets/images/ts-python-environments.png" width=300></center>
+1. Finally, click "dsc80 (Python 3.8.18)".
+    <center><img src="../assets/images/ts-dsc80-conda.png" width=500></center>
 
 <!-- ## Working Remotely via DataHub
 
