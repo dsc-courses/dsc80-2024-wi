@@ -12,8 +12,8 @@ days:
     events:
       - name: LEC 5
         type: lecture
-        title: Exploring and Cleaning Data
-        # url: resources/lectures/lec05/lec05.html
+        title: Exploratory Data Analysis and Data Cleaning
+        url: resources/lectures/lec05/lec05.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/5
         reading: >
           [Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)
