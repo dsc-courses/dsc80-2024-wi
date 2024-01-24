@@ -13,7 +13,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-2-dataframes){: .btn }
+[Jump to the current week](#week-3-messy-data-statistical-testing){: .btn }
 
 Click the 🎥 button to view the recording of a lecture/discussion.<br>Click the 📝 button to view lecture notebooks after they've been filled in during lecture.
 

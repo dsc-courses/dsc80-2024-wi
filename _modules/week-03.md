@@ -14,7 +14,8 @@ days:
         type: lecture
         title: Exploratory Data Analysis and Data Cleaning
         url: resources/lectures/lec05/lec05.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/5
+        filled: resources/lectures/lec05/lec05-filled.html
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/5
         reading: >
           [Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)
   - date: '2024-01-24'
