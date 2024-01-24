@@ -7,7 +7,7 @@ days:
       - name: LAB 3
         url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/labs/lab03/lab.ipynb
         type: lab
-        title: DataFrame Manipulation
+        title: Merging and Pivoting
   - date: '2024-01-30'
     events:
       - name: LEC 7
