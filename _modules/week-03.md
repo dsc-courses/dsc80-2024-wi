@@ -24,6 +24,10 @@ days:
         type: disc
         title: Lab 2 Reflection
         podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/23
+        url: https://www.gradescope.com/courses/698219/assignments/3998384
+        reading: > 
+          [Notebook](https://github.com/dsc-courses/dsc80-2024-wi/blob/main/discussions/disc03/discussion.ipynb)
+        
   - date: '2024-01-25'
     events:
       - name: PRE 6
