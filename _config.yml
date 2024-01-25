@@ -90,12 +90,12 @@ plugins:
 
 # callouts
 callouts:
-  warning:
-    title: Warning
+  red:
+    title: 
     color: red
-  note:
-    title: Note
+  yellow:
+    title: 
     color: yellow
-  success:
+  green:
     title: ""
     color: green

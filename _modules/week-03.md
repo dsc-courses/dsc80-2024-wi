@@ -23,9 +23,13 @@ days:
       - name: DISC 3
         type: disc
         title: Lab 2 Reflection
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/22
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/23
   - date: '2024-01-25'
     events:
+      - name: PRE 6
+        type: pre-lec
+        title: Pre-Lecture Reading
+        url: resources/lectures/lec06/pre-lec06.html
       - name: LEC 6
         type: lecture
         title: Hypothesis Testing
