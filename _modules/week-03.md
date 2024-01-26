@@ -38,7 +38,7 @@ days:
         type: lecture
         title: Hypothesis Testing
         url: resources/lectures/lec06/lec06.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/6
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/6
         reading: >
           [Ch. 2](https://learningds.org/ch/02/data_scope_intro.html)
   - date: '2024-01-27'
