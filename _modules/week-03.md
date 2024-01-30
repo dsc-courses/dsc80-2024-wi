@@ -36,7 +36,7 @@ days:
         url: resources/lectures/lec06/pre-lec06.html
       - name: LEC 6
         type: lecture
-        title: Hypothesis Testing
+        title: 'Hypothesis Testing; <i><a href="resources/lectures/lec07/lec07-fast-permutation-tests.html">Aside: Fast Permutation Tests</a></i>'
         url: resources/lectures/lec06/lec06.html
         podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/6
         reading: >

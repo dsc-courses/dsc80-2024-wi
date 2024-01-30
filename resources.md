@@ -44,7 +44,7 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 
 ### Lecture-Specific Readings
 
-- [Fast Permutation Tests](resources/lectures/lec11/lec11-fast-permutation-tests.html).
+- [Fast Permutation Tests](resources/lectures/lec07/lec07-fast-permutation-tests.html).
 - [More Missingness Examples](resources/lectures/lec12/lec12-more-examples.html).
 
 ### Articles

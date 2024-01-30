@@ -12,10 +12,10 @@ days:
     events:
       - name: LEC 7
         type: lecture
-        # url: resources/lectures/lec07/lec07.html
+        url: resources/lectures/lec07/lec07.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/7
         title: Missingness Mechanisms
-        reading: >
+        reading: > 
          [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)
   - date: '2024-01-31'
     events:
@@ -35,5 +35,5 @@ days:
       - name: PROJ 2
         # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/02-covid_vax/project.ipynb
         type: proj
-        title: TBD (checkpoint)
+        title: TBD (checkpoint; deadline will be moved upon release)
 ---
