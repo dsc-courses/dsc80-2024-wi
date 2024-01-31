@@ -13,7 +13,8 @@ days:
       - name: LEC 7
         type: lecture
         url: resources/lectures/lec07/lec07.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/7
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/7
+        filled: resources/lectures/lec07/lec07-filled.html
         title: Missingness Mechanisms
         reading: > 
          [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)
