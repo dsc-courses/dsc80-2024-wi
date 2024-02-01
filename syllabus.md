@@ -311,7 +311,7 @@ the deadline, and only the most recent submission will be graded, so it’s a
 good habit to submit early and often. If you make a submission after the
 deadline, your assignment will be counted as late.
 
-You have **6 "slip days"** to use throughout the quarter. A slip day extends
+You have **7 "slip days"** (up from 6) to use throughout the quarter. A slip day extends
 the deadline of an assignment by 24 hours. The number of slip days you can use
 on an assignment depends on the kind of assignment:
 
