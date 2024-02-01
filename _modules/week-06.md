@@ -17,6 +17,10 @@ days:
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/11
         reading: >
           [Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)
+      - name: PROJ 2
+        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/02-covid_vax/project.ipynb
+        type: proj
+        title: Loan Applications 💸
   - date: '2024-02-14'
     events:
       - name: DISC 6

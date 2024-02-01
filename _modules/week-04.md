@@ -32,12 +32,8 @@ days:
       - name: LEC 8
         type: lecture
         title: Imputation
-        # url: resources/lectures/lec08/lec08.html
+        url: resources/lectures/lec08/lec08.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/8
         reading: >
           [DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)
-      - name: PROJ 2
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/02-covid_vax/project.ipynb
-        type: proj
-        title: TBD (checkpoint; deadline will be moved upon release)
 ---

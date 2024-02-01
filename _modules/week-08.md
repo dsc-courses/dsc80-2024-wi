@@ -30,10 +30,10 @@ days:
         # url: resources/lectures/lec14/lec14.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/15
         # reading: >
-      - name: PROJ 4
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/tree/main/projects/04-language_models
+      - name: PROJ 3
         type: proj
-        title: TBD (checkpoint)
+        # url: https://dsc80.com/project3/
+        title: Language Models 🗣️
 
   # - date: '2023-11-23'
   #   events:

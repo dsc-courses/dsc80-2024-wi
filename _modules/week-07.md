@@ -32,6 +32,6 @@ days:
       - name: PROJ 3
         type: proj
         # url: https://dsc80.com/project3/
-        title: Exploratory Data Analysis 📊 (no checkpoint)
+        title: Language Models 🗣️ (Checkpoint)
 
 ---

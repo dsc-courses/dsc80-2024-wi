@@ -12,8 +12,12 @@ days:
         #   [Solutions](resources/final-SOLUTIONS.pdf)
   - date: '2024-03-21'
     events:
-      - name: PROJ 5
+      - name: PROJ 4
         type: proj
-        title: Model Building 🛠️ (no checkpoint)
+        title: "Data Science Lifecycle, Part 1: EDA 📊 (no checkpoint)"
+        # url: https://dsc80.com/project5/
+      - name: PROJ 4
+        type: proj
+        title: "Data Science Lifecycle, Part 2: Model Building 🛠️ (no checkpoint)"
         # url: https://dsc80.com/project5/
 ---
