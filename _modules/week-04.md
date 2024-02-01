@@ -23,7 +23,10 @@ days:
       - name: DISC 4
         type: disc
         title: Lab 3 Reflection
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/23
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/24
+        url: https://www.gradescope.com/courses/698219/assignments/4033116/
+        reading: > 
+          [Notebook](https://github.com/dsc-courses/dsc80-2024-wi/blob/main/discussions/disc04/discussion.ipynb)
   - date: '2024-02-01'
     events:
       - name: LEC 8
