@@ -33,7 +33,7 @@ days:
         type: lecture
         title: Imputation
         url: resources/lectures/lec08/lec08.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/8
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/8
         reading: >
           [DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)
 ---
