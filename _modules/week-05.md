@@ -5,9 +5,9 @@ days:
   - date: '2024-02-05'
     events:
       - name: LAB 4
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab04/lab.ipynb
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/labs/lab04/lab.ipynb
         type: lab
-        title: Hypothesis and Permutation Testing
+        title: <b>Hypothesis and Permutation Testing</b>
   - date: '2024-02-06'
     events:
       - name: LEC 9
@@ -18,9 +18,9 @@ days:
         reading: >
           [Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)
       - name: PROJ 2
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/02-covid_vax/project.ipynb
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/projects/proj02/project.ipynb
         type: proj
-        title: Loan Applications 💸 (Checkpoint)
+        title: <b>Loan Applications 💸 (Checkpoint)</b>
 
   - date: '2024-02-07'
     events:

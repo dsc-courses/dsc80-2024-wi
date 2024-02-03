@@ -18,9 +18,9 @@ days:
         reading: >
           [Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)
       - name: PROJ 2
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/02-covid_vax/project.ipynb
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/projects/proj02/project.ipynb
         type: proj
-        title: Loan Applications 💸
+        title: <b>Loan Applications 💸</b>
   - date: '2024-02-14'
     events:
       - name: DISC 6
