@@ -1,5 +1,5 @@
 ---
-title: "Week 5 \u2013 HTTP, Midterm Exam"
+title: Week 5 – HTTP, Midterm Exam<br><small>🚨 Let Suraj know which topics/old exam questions you want him to take up in Tuesday's lecture at <a href="https://docs.google.com/forms/d/e/1FAIpQLScWbVZv9hBv-wX-ItKHUVRnkPMMtfJZVfErKE9GS7_8dFcRBQ/viewform"><b>q.dsc80.com</b></a>.</small>
 weekNumber: 5
 days:
   - date: '2024-02-05'
@@ -14,7 +14,7 @@ days:
         type: lecture
         title: HTTP Basics, Midterm Review
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/9
-        # url: resources/lectures/lec09/lec09.html
+        url: resources/lectures/lec09/lec09.html
         reading: >
           [Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)
       - name: PROJ 2

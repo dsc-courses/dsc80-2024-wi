@@ -1,5 +1,5 @@
 ---
-title: "Week 4 \u2013 Missing Values"
+title: Week 4 – Missing Values<br><small>🚨 Thursday's lecture recording doesn't have audio after ~20 minutes. Instead, you can watch Winter 2023's podcasts. Watch from the 35 minute mark onwards from <a href="https://podcast.ucsd.edu/watch/wi23/dsc80_a00/12"><b>this video</b></a>, all of <a href="https://podcast.ucsd.edu/watch/wi23/dsc80_a00/13"><b>this video</b></a>, and then the first 11 minutes in <a href="https://podcast.ucsd.edu/watch/wi23/dsc80_a00/14"><b>this video</b></a>.</small>
 weekNumber: 4
 days:
   - date: '2024-01-29'
