@@ -5,9 +5,9 @@ days:
   - date: '2024-02-12'
     events:
       - name: LAB 5
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab05/lab.ipynb
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/labs/lab05/lab.ipynb
         type: lab
-        title: Missing Values and Imputation
+        title: <b>Missing Values and Imputation</b>
   - date: '2024-02-13'
     events:
       - name: LEC 10
