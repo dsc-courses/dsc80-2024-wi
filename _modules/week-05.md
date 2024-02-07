@@ -13,8 +13,9 @@ days:
       - name: LEC 9
         type: lecture
         title: HTTP Basics, Midterm Review
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/9
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/9
         url: resources/lectures/lec09/lec09.html
+        filled: resources/lectures/lec09/lec09-filled.html
         reading: >
           [Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)
       - name: PROJ 2
