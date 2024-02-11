@@ -10,4 +10,3 @@ askabout: LMTutor, my dance club Krush_UCSD💃🏻, piano🎹
 foodemoji: 🍑
 food: Taste of Hunan, Din Tai Fung, Fruits
 ---
----
