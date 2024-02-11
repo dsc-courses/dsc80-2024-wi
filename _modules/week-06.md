@@ -35,6 +35,12 @@ days:
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/12
         reading: >
           [Ch. 13](https://learningds.org/ch/13/text_intro.html)
+  - date: '2024-02-17'
+    events:
+      - name: SUR
+        type: survey
+        title: <b>Mid-Quarter Survey</b>
+        url: https://docs.google.com/forms/d/e/1FAIpQLScHz9WJMST7QLKCl2cR3Oc3r-DO7qn4rutM_dCN8R7gluy5MA/viewform
   # - date: '2023-11-10'
   #   events:
   #     - markdown_content: "NO DISCUSSION: Veteran's Day"
