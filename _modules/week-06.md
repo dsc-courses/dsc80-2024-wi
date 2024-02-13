@@ -13,7 +13,7 @@ days:
       - name: LEC 10
         type: lecture
         title: Web Scraping
-        # url: resources/lectures/lec10/lec10.html
+        url: resources/lectures/lec10/lec10.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/11
         reading: >
           [Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)
