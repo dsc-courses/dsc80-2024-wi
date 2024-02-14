@@ -15,8 +15,9 @@ days:
     events:
       - name: LAB 6
         type: lab
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab06/lab.ipynb
-        title: HTTP and HTML (due 5PM, no slip days)
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/labs/lab06/lab.ipynb
+        type: lab
+        title: <b>HTTP and HTML (due 5PM, no slip days)</b>
       - name: DISC 7
         type: disc
         title: Lab 6 Reflection
