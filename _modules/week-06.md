@@ -14,7 +14,8 @@ days:
         type: lecture
         title: Web Scraping
         url: resources/lectures/lec10/lec10.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/11
+        filled: resources/lectures/lec10/lec10-filled.html
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/11
         reading: >
           [Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)
       - name: PROJ 2
