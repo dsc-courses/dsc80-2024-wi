@@ -27,6 +27,9 @@ days:
       - name: DISC 6
         type: disc
         title: Lab 5 Reflection
+        url: https://www.gradescope.com/courses/698219/assignments/4106296/
+        reading: > 
+          [Notebook](https://github.com/dsc-courses/dsc80-2024-wi/blob/main/discussions/disc06/discussion.ipynb)
   - date: '2024-02-15'
     events:
       - name: LEC 11
