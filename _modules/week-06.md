@@ -27,6 +27,7 @@ days:
       - name: DISC 6
         type: disc
         title: Lab 5 Reflection
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00
         url: https://www.gradescope.com/courses/698219/assignments/4106296/
         reading: > 
           [Notebook](https://github.com/dsc-courses/dsc80-2024-wi/blob/main/discussions/disc06/discussion.ipynb)
