@@ -35,8 +35,8 @@ days:
     events:
       - name: LEC 11
         type: lecture
-        title: Regular Expressions
-        # url: resources/lectures/lec11/lec11.html
+        title: Regular Expressions and Text Features
+        url: resources/lectures/lec11/lec11.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/12
         reading: >
           [Ch. 13](https://learningds.org/ch/13/text_intro.html)
