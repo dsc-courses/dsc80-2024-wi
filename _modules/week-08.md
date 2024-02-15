@@ -32,8 +32,8 @@ days:
         # reading: >
       - name: PROJ 3
         type: proj
-        # url: https://dsc80.com/project3/
-        title: Language Models 🗣️
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/projects/proj03/project.ipynb
+        title: <b>Language Models 🗣️</b>
 
   # - date: '2023-11-23'
   #   events:

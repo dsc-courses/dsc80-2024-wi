@@ -32,7 +32,7 @@ days:
           [Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)
       - name: PROJ 3
         type: proj
-        # url: https://dsc80.com/project3/
-        title: Language Models 🗣️ (Checkpoint)
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/projects/proj03/project.ipynb
+        title: <b>Language Models 🗣️ (Checkpoint)</b>
 
 ---
