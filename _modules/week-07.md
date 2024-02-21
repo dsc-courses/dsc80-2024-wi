@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Text Features
         url: resources/lectures/lec12/lec12.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/13
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/13
         reading: >
           [Ch. 13.4](https://learningds.org/ch/13/text_sotu.html)
   - date: '2024-02-21'
