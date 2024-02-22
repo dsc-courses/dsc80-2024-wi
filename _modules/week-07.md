@@ -1,5 +1,5 @@
 ---
-title: "Week 7 \u2013 Text Data, Modeling"
+title: "Week 7 \u2013 Text Data, Linear Regression"
 weekNumber: 7
 days:
   - date: '2024-02-20'
@@ -27,8 +27,8 @@ days:
     events:
       - name: LEC 13
         type: lecture
-        title: Modeling and Regression
-        # url: resources/lectures/lec13/lec13.html
+        title: Linear Regression
+        url: resources/lectures/lec13/lec13.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/14
         reading: >
           [Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)
