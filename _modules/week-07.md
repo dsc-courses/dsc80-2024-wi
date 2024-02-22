@@ -21,6 +21,8 @@ days:
       - name: DISC 7
         type: disc
         title: Lab 6 Reflection
+        # podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00
+        url: https://www.gradescope.com/courses/698219/assignments/4140223
   - date: '2024-02-22'
     events:
       - name: LEC 13
