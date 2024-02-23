@@ -29,7 +29,8 @@ days:
         type: lecture
         title: Linear Regression
         url: resources/lectures/lec13/lec13.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/14
+        filled: resources/lectures/lec13/lec13-filled.html
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/14
         reading: >
           [Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)
       - name: PROJ 3
