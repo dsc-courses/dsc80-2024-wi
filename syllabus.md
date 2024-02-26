@@ -316,10 +316,10 @@ the deadline of an assignment by 24 hours. The number of slip days you can use
 on an assignment depends on the kind of assignment:
 
 - On labs, you may use up to 1 slip day. Labs will not be accepted more than 24
-  hours after the deadline. Note that you will not be able to use slip days on Labs 2 and 7, but their deadlines will be extended.
+  hours after the deadline. Note that you will not be able to use slip days on Labs 1 and 6, but their deadlines will be extended.
 - On projects and project checkpoints, you may use up to 2 slip days. These
   assignments will not be accepted more than 48 hours after the deadline. Note
-  that you will not be able to use slip days on Project 5.
+  that you will not be able to use slip days on Project 4 (which is due on Thursday, March 21st, no exceptions).
 - You may not use slip days on lab reflection assignments. These assignments
   will not be accepted after the original deadline.
 
