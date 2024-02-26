@@ -197,7 +197,7 @@ will often be a _project checkpoint_. This checkpoint will ensure that you\'re
 on-track to complete the project on time, and should (hopefully) be a source of
 easy points.
 
-The last project, Project 5, will be due during finals week, and can be thought
+The last project, Project 4, will be due during finals week, and can be thought
 of as a practical component of the Final Exam.
 
 Note that, unlike labs, the lowest project score is not dropped. Projects and project checkpoints will usually be due on **Thursdays at 11:59PM**.
