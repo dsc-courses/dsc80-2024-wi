@@ -14,10 +14,6 @@ days:
     events:
       - name: PROJ 4
         type: proj
-        title: "Data Science Lifecycle, Part 1: EDA 📊 (no checkpoint)"
-        # url: https://dsc80.com/project5/
-      - name: PROJ 4
-        type: proj
-        title: "Data Science Lifecycle, Part 2: Model Building 🛠️ (no checkpoint)"
+        title: "Data Science Lifecycle (no slip days!)"
         # url: https://dsc80.com/project5/
 ---

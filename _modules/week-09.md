@@ -31,4 +31,8 @@ days:
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/17
         reading: >
           [Ch. 16](https://learningds.org/ch/16/ms_intro.html)
+      - name: PROJ 4
+        type: proj
+        title: "Data Science Lifecycle (Checkpoint)"
+        # url: https://dsc80.com/project5/
 ---
