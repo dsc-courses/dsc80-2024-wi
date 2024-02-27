@@ -5,9 +5,9 @@ days:
   - date: '2024-03-04'
     events:
       - name: LAB 8
-        # url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab08/lab.ipynb
+        url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/labs/lab08/lab.ipynb
         type: lab
-        title: Modeling and Feature Engineering
+        title: <b>Modeling and Feature Engineering</b>
   - date: '2024-03-05'
     events:
       - name: LEC 16
