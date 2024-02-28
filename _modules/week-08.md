@@ -14,7 +14,7 @@ days:
         type: lecture
         title: Feature Engineering
         url: resources/lectures/lec14/lec14.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/15
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/15
         reading: >
           [Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)
   - date: '2024-02-28'
