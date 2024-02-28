@@ -294,14 +294,11 @@ Here is how we'll compute your grade:
 | Component                               | Weight              | Notes                           |
 | --------------------------------------- | ------------------- | ------------------------------- |
 | Labs                                    | 25%                 | 3.125% per lab, lowest dropped   |
-| Projects                                | 30%                 | 6% per project, no drops        |
-| Project Checkpoints                     | 5%                  | 1% per project, no drops\*      |
+| Projects                                | 30%                 | 5% each for Projects 1-3, 10% for Project 4 |
+| Project Checkpoints                     | 5%                  | 1% each for Projects 1-3, 2% for Project 4      |
 | Midterm Exam                            | 15%                 | see the Redemption Policy above |
 | Final Exam                              | 25%                 |                                 |
 | Discussion Attendance + Lab Reflections | 2% (extra credit)   | 0.2% per week            |
-
-\*Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects
-3 and 5 will automatically receive the 1% checkpoint credit.
 
 ### Late Policy, Slip Days, and Drops
 
@@ -341,7 +338,7 @@ we calculate grades at the end of the quarter. However, in the event that you
 use all 6 days and submit another assignment late, we will allocate your slip
 days first to your projects (in chronological order), then to your labs (in
 chronological order), and then to other assignments. This is done to prevent
-you from receiving a 0 on, say, Project 4, if you've used all of your slip days
+you from receiving a 0 on, say, Project 3, if you've used all of your slip days
 on labs up until that point; in such a case, you’d instead receive a 0 on an
 earlier lab that isn’t weighted as much in your grade.
 
