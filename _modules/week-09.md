@@ -33,6 +33,6 @@ days:
           [Ch. 16](https://learningds.org/ch/16/ms_intro.html)
       - name: PROJ 4
         type: proj
-        title: "Data Science Lifecycle (Checkpoint)"
-        # url: https://dsc80.com/project5/
+        title: <b>Data Science Lifecycle (Checkpoint)</b>
+        url: proj04
 ---
