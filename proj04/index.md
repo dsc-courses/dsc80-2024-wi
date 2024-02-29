@@ -270,12 +270,12 @@ The above instructions give you all you need to create and make updates to your 
 
 As mentioned at the top of this page, this project **does** have a checkpoint, which is worth 2% of your overall grade. The checkpoint is due on **Thursday, March 7th**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/698219/assignments/4166466/) on Gradescope.
 
-The checkpoint assignment asks you to answer the following questions:
+The checkpoint assignment is worth 20 points, and asks you to answer the following questions:
 
-1. Which of the three datasets did you choose? Why?
-1. Upload a screenshot of a `plotly` visualization you've created while completing Step 2: Data Cleaning and Exploratory Data Analysis.
-1. What is the pair of hypotheses you plan on testing in Step 4? What is the test statistic you plan on using?
-1. What is the column you plan on trying to predict in Steps 5-8? Is it a classification or regression problem? 
+1. (2 points) Which of the three datasets did you choose? Why?
+1. (6 points) Upload a screenshot of a `plotly` visualization you've created while completing Part 1, Step 2: Data Cleaning and Exploratory Data Analysis.
+1. (6 points) What is the pair of hypotheses you plan on testing in Part 1, Step 4? What is the test statistic you plan on using?
+1. (6 points) What is the column you plan on trying to predict in Part 1, Steps 5-8? Is it a classification or regression problem? 
 
 ### Final Submission
 

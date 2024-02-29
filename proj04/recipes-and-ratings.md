@@ -17,7 +17,7 @@ nav_exclude: true
 
 ---
 
-This dataset contains recipes and ratings from [food.com](food.com). It was originally scraped and used by the authors of [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender systems paper.
+This dataset contains recipes and ratings from [food.com](https://food.com). It was originally scraped and used by the authors of [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender systems paper.
 
 ---
 

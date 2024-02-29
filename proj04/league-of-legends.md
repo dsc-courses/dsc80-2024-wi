@@ -28,7 +28,7 @@ You'll probably want to be at least a little bit familiar with [*League of Legen
 
 The data can be found on the website [Oracle's Elixir](https://oracleselixir.com/tools/downloads) at the provided Google Drive link.
 
-To make sure that you're able to satisfy the requirements of the project, use match data from 2022. You may use the older datasets if you wish, but keep in mind that League of Legends changes significantly between years; this can make it difficult to combine or make comparisons between datasets from different years.
+We've verified that it's possible to satisfy the requirements of the project using match data from 2022. You're welcome to use newer or older datasets if you wish, but keep in mind that League of Legends changes significantly between years; this can make it difficult to combine or make comparisons between datasets from different years.
 
 ---
 
