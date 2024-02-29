@@ -47,6 +47,8 @@ Feel free to use one of the prompts below to build your predictive model in Step
 * Predict the number and/or severity of major power outages in the year 2022.
 * Predict the electricity consumption of an area.
 
+Make sure to justify what information you would know at the “time of prediction” and to only train your model using those features.
+
 ---
 
 ## Special Considerations

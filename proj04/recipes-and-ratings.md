@@ -82,6 +82,8 @@ Feel free to use one of the prompts below to build your predictive model in Step
 - Predict the number of steps in recipes.
 - Predict calories of recipes.
 
+Make sure to justify what information you would know at the “time of prediction” and to only train your model using those features.
+
 ---
 
 ## Special Considerations
