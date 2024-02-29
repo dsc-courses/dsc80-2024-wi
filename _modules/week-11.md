@@ -14,6 +14,6 @@ days:
     events:
       - name: PROJ 4
         type: proj
-        title: "Data Science Lifecycle (no slip days!)"
-        # url: https://dsc80.com/project5/
+        title: <b>Data Science Lifecycle (no slip days!)</b>
+        url: proj04
 ---
