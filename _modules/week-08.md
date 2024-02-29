@@ -28,10 +28,11 @@ days:
     events:
       - name: LEC 15
         type: lecture
-        title: Generalization
-        # url: resources/lectures/lec14/lec14.html
+        title: Standardization, Multicollinearity, and Generalization
+        url: resources/lectures/lec15/lec15.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/15
-        # reading: >
+        reading: >
+          [Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [Ch. 17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)
       - name: PROJ 3
         type: proj
         url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/projects/proj03/project.ipynb
