@@ -30,7 +30,7 @@ days:
         type: lecture
         title: Standardization, Multicollinearity, and Generalization
         url: resources/lectures/lec15/lec15.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/15
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/16
         reading: >
           [Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [Ch. 17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)
       - name: PROJ 3
