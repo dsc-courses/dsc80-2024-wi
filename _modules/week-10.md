@@ -7,7 +7,7 @@ days:
       - name: LAB 9
         url: https://github.com/dsc-courses/dsc80-2024-wi/blob/main/labs/lab09/lab.ipynb
         type: lab
-        title: Pipelines
+        title: <b>Pipelines</b>
   - date: "2024-03-12"
     events:
       - name: LEC 18
