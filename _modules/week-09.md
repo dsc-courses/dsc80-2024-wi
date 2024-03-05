@@ -12,8 +12,8 @@ days:
     events:
       - name: LEC 16
         type: lecture
-        title: Cross-Validation
-        # url: resources/lectures/lec15/lec15.html
+        title: Hyperparameters, Cross-Validation, and Decision Trees
+        url: resources/lectures/lec16/lec16.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/16
         reading: >
           [Ch. 16](https://learningds.org/ch/16/ms_intro.html)
