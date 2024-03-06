@@ -14,7 +14,7 @@ days:
         type: lecture
         title: Hyperparameters, Cross-Validation, and Decision Trees
         url: resources/lectures/lec16/lec16.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/16
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/17
         reading: >
           [Ch. 16](https://learningds.org/ch/16/ms_intro.html)
   - date: '2024-03-06'
