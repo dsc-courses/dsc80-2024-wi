@@ -29,7 +29,7 @@ days:
       - name: LEC 17
         type: lecture
         title: Decision Trees and Random Forests
-        # url: resources/lectures/lec16/lec16.html
+        url: resources/lectures/lec17/lec17.html
         # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/17
         reading: >
           [Ch. 16](https://learningds.org/ch/16/ms_intro.html)
