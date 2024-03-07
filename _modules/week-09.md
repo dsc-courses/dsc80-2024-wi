@@ -22,7 +22,7 @@ days:
       - name: DISC 9
         type: disc
         title: Lab 8 Reflection
-        # podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/29
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/29
         url: https://www.gradescope.com/courses/698219/assignments/4201725/
   - date: '2024-03-07'
     events:
