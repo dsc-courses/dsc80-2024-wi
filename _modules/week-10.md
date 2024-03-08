@@ -12,8 +12,8 @@ days:
     events:
       - name: LEC 18
         type: lecture
-        title: Classifier Evaluation
-        # url: resources/lectures/lec17/lec17.html
+        title: Classifier Evaluation and Model Fairness
+        url: resources/lectures/lec18/lec18.html
         reading: >
           [Ch. 19.5](https://learningds.org/ch/19/class_dr.html)
   - date: "2024-03-13"
