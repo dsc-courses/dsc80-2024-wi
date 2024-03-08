@@ -30,7 +30,7 @@ days:
         type: lecture
         title: Decision Trees and Random Forests
         url: resources/lectures/lec17/lec17.html
-        # podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/17
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/18
         reading: >
           [Ch. 16](https://learningds.org/ch/16/ms_intro.html)
       - name: PROJ 4
