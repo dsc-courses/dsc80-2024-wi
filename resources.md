@@ -52,6 +52,7 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 - [Views and Copies in `pandas`](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html) – a great read if you'd like to learn more about the infamous `SettingWithCopyWarning`.
 - [jwilber.me/permutationtest](https://www.jwilber.me/permutationtest/), a great visual explanation of permutation testing.
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) and [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/), excellent visual descriptions of the last few weeks of the course (some terminology is different, but the ideas are the same).
+- **New**: [MLU Explain](https://mlu-explain.github.io/), a collection of interactive articles (prepared by [Jared Wilber](https://www.jwilber.me/)) that explain core machine learning ideas, like cross-validation, random forests, and precision and recall.
 
 ### Other Links
 - [pandastutor.com](https://pandastutor.com), the equivalent of [pythontutor.com](https://pythontutor.com) for DataFrame manipulation.
