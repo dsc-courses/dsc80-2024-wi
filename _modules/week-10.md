@@ -30,6 +30,6 @@ days:
     events:
       - name: SUR
         type: survey
-        title: SETs and End-of-Quarter Survey (due 8AM)
+        title: <b><a href="https://academicaffairs.ucsd.edu/Modules/Evals/">SETs</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-ADKrha3WLbf1U6mrwxxy7hckSHCsMJfNjs53AoPP0LJABg/viewform">End-of-Quarter Survey</a> (due 8AM)</b>
         # url: resources/lectures/lec18/lec18.html
 ---
