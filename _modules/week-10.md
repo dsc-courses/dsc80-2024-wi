@@ -14,6 +14,7 @@ days:
         type: lecture
         title: Classifier Evaluation and Model Fairness
         url: resources/lectures/lec18/lec18.html
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/19
         reading: >
           [Ch. 19.5](https://learningds.org/ch/19/class_dr.html)
   - date: "2024-03-13"
