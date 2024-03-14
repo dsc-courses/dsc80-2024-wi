@@ -29,6 +29,7 @@ days:
       - name: LEC 19
         type: lecture
         title: Review, Conclusion
+        url: resources/lectures/lec19/lec19-blank.pdf
   - date: "2024-03-16"
     events:
       - name: SUR
