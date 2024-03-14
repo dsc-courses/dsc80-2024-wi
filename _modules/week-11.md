@@ -6,7 +6,7 @@ days:
     events:
       - name: EXAM
         type: exam
-        title: <b>Final Exam (3-6PM, in person, room TBD)</b>
+        title: <b>Final Exam (3-6PM, Pepper Canyon Hall 109)</b>
         # url: resources/final-RELEASE.pdf
         # reading: >
         #   [Solutions](resources/final-SOLUTIONS.pdf)

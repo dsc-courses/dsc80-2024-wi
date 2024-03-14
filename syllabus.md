@@ -263,7 +263,7 @@ though the Final Exam will emphasize material after the Midterm Exam.
 - **Midterm Exam**: Thursday, February 8th, 3:30-4:50PM, Pepper Canyon Hall 109
   (during lecture)
 
-- **Final Exam:** Tuesday, March 19th, 3-6PM, Room TBD
+- **Final Exam:** Tuesday, March 19th, 3-6PM, Pepper Canyon Hall 109
 
 **Both exams will be administered in-person**. If you have conflicts with
 either of the exams, please let us know on the [Welcome
