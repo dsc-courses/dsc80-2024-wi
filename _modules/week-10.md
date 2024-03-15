@@ -28,8 +28,8 @@ days:
     events:
       - name: LEC 19
         type: lecture
-        title: Review, Conclusion
-        url: resources/lectures/lec19/lec19-blank.pdf
+        title: Review, Conclusion (<a href="resources/lectures/lec19/lec19-blank.pdf">blank</a>, <a href="resources/lectures/lec19/lec19-filled.pdf">filled</a>)
+        podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/20
   - date: "2024-03-16"
     events:
       - name: SUR
