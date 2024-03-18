@@ -294,7 +294,7 @@ Here is how we'll compute your grade:
 | Component                               | Weight              | Notes                           |
 | --------------------------------------- | ------------------- | ------------------------------- |
 | Labs                                    | 25%                 | 3.125% per lab, lowest dropped   |
-| Projects                                | 30%                 | 5% each for Projects 1-3, 10% for Project 4 |
+| Projects                                | 30%                 | 6% each for Projects 1-3, 12% for Project 4 |
 | Project Checkpoints                     | 5%                  | 1% each for Projects 1-3, 2% for Project 4      |
 | Midterm Exam                            | 15%                 | see the Redemption Policy above |
 | Final Exam                              | 25%                 |                                 |
