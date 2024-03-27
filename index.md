@@ -17,8 +17,8 @@ nav_order: 1
 
 Click the 🎥 button to view the recording of a lecture/discussion.<br>Click the 📝 button to view lecture notebooks after they've been filled in during lecture.
 
-{: .green }
-**If at least 80% of the class fills out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals) and the [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSe-ADKrha3WLbf1U6mrwxxy7hckSHCsMJfNjs53AoPP0LJABg/viewform) by SATURDAY AT 8AM, we'll add 1% of extra credit to everyone's overall grade!**
+{: .red }
+**This is the website of a prior offering of DSC 80. The recordings for all lectures are publicly available and can be found below. To see the latest version of DSC 80, go to [dsc80.com](https://dsc80.com).**
 
 {% for module in site.modules %}
 {{ module }}
