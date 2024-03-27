@@ -13,7 +13,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green }
+[Jump to the current week](#week-9-modeling-in-practice){: .btn }
 
 Click the 🎥 button to view the recording of a lecture/discussion.<br>Click the 📝 button to view lecture notebooks after they've been filled in during lecture.
 
